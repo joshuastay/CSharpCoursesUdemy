@@ -1,0 +1,13 @@
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\bin\Debug\netcoreapp3.1\CsharpBasicsControlFlow.exe
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\bin\Debug\netcoreapp3.1\CsharpBasicsControlFlow.deps.json
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\bin\Debug\netcoreapp3.1\CsharpBasicsControlFlow.runtimeconfig.json
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\bin\Debug\netcoreapp3.1\CsharpBasicsControlFlow.runtimeconfig.dev.json
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\bin\Debug\netcoreapp3.1\CsharpBasicsControlFlow.dll
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\bin\Debug\netcoreapp3.1\CsharpBasicsControlFlow.pdb
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\obj\Debug\netcoreapp3.1\CsharpBasicsControlFlow.csprojAssemblyReference.cache
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\obj\Debug\netcoreapp3.1\CsharpBasicsControlFlow.AssemblyInfoInputs.cache
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\obj\Debug\netcoreapp3.1\CsharpBasicsControlFlow.AssemblyInfo.cs
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\obj\Debug\netcoreapp3.1\CsharpBasicsControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\obj\Debug\netcoreapp3.1\CsharpBasicsControlFlow.dll
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\obj\Debug\netcoreapp3.1\CsharpBasicsControlFlow.pdb
+C:\Users\Josh And Britt\source\repos\CsharpBasicsControlFlow\CsharpBasicsControlFlow\obj\Debug\netcoreapp3.1\CsharpBasicsControlFlow.genruntimeconfig.cache
