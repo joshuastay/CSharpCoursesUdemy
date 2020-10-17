@@ -53,15 +53,36 @@ namespace CsharpListandarrayex
             Console.WriteLine(nameArray);
 
             Console.WriteLine();
-            int[] fiveNums = new int[5];
+            string[] fiveNums;
+            bool numMatch = false;
             while (true)
             {
+                numMatch = false;
                 Console.WriteLine("Enter 5 numbers: ");
                 var newnums = Console.ReadLine();
-                foreach (char number in newnums)
+                fiveNums = newnums.Split(' ', 5);
+                foreach (var n in fiveNums)
                 {
-
+                    if (Array.IndexOf(fiveNums, n) != Array.LastIndexOf(fiveNums, n))
+                    {
+                        numMatch = true;
+                    }
                 }
+                if (numMatch)
+                {
+                    Console.WriteLine("entered duplicates, try again!");
+                    continue;
+                }
+                else
+                {
+                    break;
+                }
+            }
+            Array.Sort(fiveNums);
+            foreach (var i in fiveNums)
+            {
+                Console.WriteLine(i);
+
             }
         }
     }
