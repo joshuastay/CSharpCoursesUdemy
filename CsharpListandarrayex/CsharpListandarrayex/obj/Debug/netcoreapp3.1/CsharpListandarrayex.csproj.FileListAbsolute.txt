@@ -1,0 +1,13 @@
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\obj\Debug\netcoreapp3.1\CsharpListandarrayex.csprojAssemblyReference.cache
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\obj\Debug\netcoreapp3.1\CsharpListandarrayex.AssemblyInfoInputs.cache
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\obj\Debug\netcoreapp3.1\CsharpListandarrayex.AssemblyInfo.cs
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\obj\Debug\netcoreapp3.1\CsharpListandarrayex.csproj.CoreCompileInputs.cache
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\bin\Debug\netcoreapp3.1\CsharpListandarrayex.exe
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\bin\Debug\netcoreapp3.1\CsharpListandarrayex.deps.json
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\bin\Debug\netcoreapp3.1\CsharpListandarrayex.runtimeconfig.json
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\bin\Debug\netcoreapp3.1\CsharpListandarrayex.runtimeconfig.dev.json
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\bin\Debug\netcoreapp3.1\CsharpListandarrayex.dll
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\bin\Debug\netcoreapp3.1\CsharpListandarrayex.pdb
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\obj\Debug\netcoreapp3.1\CsharpListandarrayex.dll
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\obj\Debug\netcoreapp3.1\CsharpListandarrayex.pdb
+C:\Users\Josh And Britt\source\repos\CsharpListandarrayex\CsharpListandarrayex\obj\Debug\netcoreapp3.1\CsharpListandarrayex.genruntimeconfig.cache
