@@ -6,6 +6,8 @@ namespace CsharpListandarrayex
     {
         static void Main(string[] args)
         {
+            // Program Exercise #1
+
             var facebook = new FacebookLikes();
             string newLike;
             while (true)
@@ -41,6 +43,9 @@ namespace CsharpListandarrayex
             }
 
             Console.WriteLine();
+
+            // Program exercise #2
+
             Console.WriteLine("Type Your Name: ");
             string username = Console.ReadLine();
             int lengthUser = username.Length;
@@ -53,6 +58,9 @@ namespace CsharpListandarrayex
             Console.WriteLine(nameArray);
 
             Console.WriteLine();
+
+            //Program exercise #3
+
             string[] fiveNums;
             bool numMatch = false;
             while (true)

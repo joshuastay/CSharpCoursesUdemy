@@ -1,0 +1,13 @@
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\bin\Debug\netcoreapp3.1\CSharplistandarraypt2.exe
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\bin\Debug\netcoreapp3.1\CSharplistandarraypt2.deps.json
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\bin\Debug\netcoreapp3.1\CSharplistandarraypt2.runtimeconfig.json
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\bin\Debug\netcoreapp3.1\CSharplistandarraypt2.runtimeconfig.dev.json
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\bin\Debug\netcoreapp3.1\CSharplistandarraypt2.dll
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\bin\Debug\netcoreapp3.1\CSharplistandarraypt2.pdb
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\obj\Debug\netcoreapp3.1\CSharplistandarraypt2.csprojAssemblyReference.cache
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\obj\Debug\netcoreapp3.1\CSharplistandarraypt2.AssemblyInfoInputs.cache
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\obj\Debug\netcoreapp3.1\CSharplistandarraypt2.AssemblyInfo.cs
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\obj\Debug\netcoreapp3.1\CSharplistandarraypt2.csproj.CoreCompileInputs.cache
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\obj\Debug\netcoreapp3.1\CSharplistandarraypt2.dll
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\obj\Debug\netcoreapp3.1\CSharplistandarraypt2.pdb
+C:\Users\Josh And Britt\source\repos\CSharplistandarraypt2\CSharplistandarraypt2\obj\Debug\netcoreapp3.1\CSharplistandarraypt2.genruntimeconfig.cache
