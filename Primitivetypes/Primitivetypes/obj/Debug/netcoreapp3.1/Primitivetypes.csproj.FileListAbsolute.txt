@@ -1,0 +1,13 @@
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\obj\Debug\netcoreapp3.1\Primitivetypes.csprojAssemblyReference.cache
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\obj\Debug\netcoreapp3.1\Primitivetypes.AssemblyInfoInputs.cache
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\obj\Debug\netcoreapp3.1\Primitivetypes.AssemblyInfo.cs
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\obj\Debug\netcoreapp3.1\Primitivetypes.csproj.CoreCompileInputs.cache
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\bin\Debug\netcoreapp3.1\Primitivetypes.exe
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\bin\Debug\netcoreapp3.1\Primitivetypes.deps.json
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\bin\Debug\netcoreapp3.1\Primitivetypes.runtimeconfig.json
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\bin\Debug\netcoreapp3.1\Primitivetypes.runtimeconfig.dev.json
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\bin\Debug\netcoreapp3.1\Primitivetypes.dll
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\bin\Debug\netcoreapp3.1\Primitivetypes.pdb
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\obj\Debug\netcoreapp3.1\Primitivetypes.dll
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\obj\Debug\netcoreapp3.1\Primitivetypes.pdb
+C:\Users\Josh And Britt\source\repos\Primitivetypes\Primitivetypes\obj\Debug\netcoreapp3.1\Primitivetypes.genruntimeconfig.cache
