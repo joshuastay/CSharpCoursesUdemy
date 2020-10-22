@@ -1,0 +1,13 @@
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.exe
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.deps.json
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.runtimeconfig.json
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.runtimeconfig.dev.json
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.dll
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.pdb
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.csprojAssemblyReference.cache
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.AssemblyInfoInputs.cache
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.AssemblyInfo.cs
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.csproj.CoreCompileInputs.cache
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.dll
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.pdb
+C:\Users\Josh And Britt\source\repos\Consecutive\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.genruntimeconfig.cache
