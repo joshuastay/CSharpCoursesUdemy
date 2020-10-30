@@ -1,0 +1,13 @@
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\bin\Debug\netcoreapp3.1\Working with Files.exe
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\bin\Debug\netcoreapp3.1\Working with Files.deps.json
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\bin\Debug\netcoreapp3.1\Working with Files.runtimeconfig.json
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\bin\Debug\netcoreapp3.1\Working with Files.runtimeconfig.dev.json
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\bin\Debug\netcoreapp3.1\Working with Files.dll
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\bin\Debug\netcoreapp3.1\Working with Files.pdb
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\obj\Debug\netcoreapp3.1\Working with Files.csprojAssemblyReference.cache
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\obj\Debug\netcoreapp3.1\Working with Files.AssemblyInfoInputs.cache
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\obj\Debug\netcoreapp3.1\Working with Files.AssemblyInfo.cs
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\obj\Debug\netcoreapp3.1\Working with Files.csproj.CoreCompileInputs.cache
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\obj\Debug\netcoreapp3.1\Working with Files.dll
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\obj\Debug\netcoreapp3.1\Working with Files.pdb
+C:\Users\Josh and Brittney\source\repos\Working with Files\Working with Files\obj\Debug\netcoreapp3.1\Working with Files.genruntimeconfig.cache
