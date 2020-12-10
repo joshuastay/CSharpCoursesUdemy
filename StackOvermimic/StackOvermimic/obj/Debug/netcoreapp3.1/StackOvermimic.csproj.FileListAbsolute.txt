@@ -1,0 +1,13 @@
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\bin\Debug\netcoreapp3.1\StackOvermimic.exe
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\bin\Debug\netcoreapp3.1\StackOvermimic.deps.json
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\bin\Debug\netcoreapp3.1\StackOvermimic.runtimeconfig.json
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\bin\Debug\netcoreapp3.1\StackOvermimic.runtimeconfig.dev.json
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\bin\Debug\netcoreapp3.1\StackOvermimic.dll
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\bin\Debug\netcoreapp3.1\StackOvermimic.pdb
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\obj\Debug\netcoreapp3.1\StackOvermimic.csprojAssemblyReference.cache
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\obj\Debug\netcoreapp3.1\StackOvermimic.AssemblyInfoInputs.cache
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\obj\Debug\netcoreapp3.1\StackOvermimic.AssemblyInfo.cs
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\obj\Debug\netcoreapp3.1\StackOvermimic.csproj.CoreCompileInputs.cache
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\obj\Debug\netcoreapp3.1\StackOvermimic.dll
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\obj\Debug\netcoreapp3.1\StackOvermimic.pdb
+C:\Users\jandb\source\repos\StackOvermimic\StackOvermimic\obj\Debug\netcoreapp3.1\StackOvermimic.genruntimeconfig.cache
